@@ -31,7 +31,16 @@
 ### 🎮 Games & Creativity
 - [Scratch Projects](https://scratch.mit.edu/explore/projects/all/)
 - [NASA](https://www.nasa.gov/)
+### 📚 Learning & Reading
 
+- [Beanstack](https://www.beanstack.com/) — Reading challenges and book tracking.
+- [Zearn](https://www.zearn.org/) — Math learning and practice.
+- [Edmentum](https://www.edmentum.com/) — Online learning programs.
+- [PebbleGo](https://www.pebblego.com/) — Research and reading for students.
+
+### 💻 Coding & Creativity
+
+- [Blockly Games](https://blockly.games/) — Learn coding through games.
 
 
 ---
