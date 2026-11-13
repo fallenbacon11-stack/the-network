@@ -30,6 +30,7 @@
 
 ### 🎮 Games & Creativity
 - [Scratch Projects](https://scratch.mit.edu/explore/projects/all/)
+### 🔬 Science & Discovery
 - [NASA](https://www.nasa.gov/)
 ### 📚 Learning & Reading
 
