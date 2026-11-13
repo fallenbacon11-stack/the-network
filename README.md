@@ -1,30 +1,60 @@
 # 🌐 THE NETWORK
 
-**Welcome to THE NETWORK!**
+### DISCOVER. EXPLORE. CONNECT.
 
-A student-made directory of websites, games, discoveries, and more!
+<p align="center">
+  **Welcome to THE NETWORK!**
+  
+  A student-made directory for discovering websites, games, and cool projects.
+</p>
 
-## 🔗 Website Directory
+---
 
-Coming soon...
+## 🧭 EXPLORE
 
-## 🎮 Games
+| Category | What's inside |
+|:--|:--|
+| 🌐 Websites | Useful and verified websites |
+| 🎮 Games | Games to explore |
+| 💻 Projects | Cool online projects |
+| ⭐ Favorites | Community favorites |
 
-Coming soon...
+---
 
-## 💻 Other Projects
+## 🌐 WEBSITE DIRECTORY
 
-Coming soon...
+*Verified websites will be listed here.*
 
-## 📜 Guidelines
+---
+
+## 🎮 GAMES
+
+*Game collection coming soon.*
+
+---
+
+## 💻 OTHER PROJECTS
+
+*More projects coming soon.*
+
+---
+
+## 📜 THE NETWORK RULES
 
 1. Be respectful.
 2. Don't share personal information.
-3. Don't use the directory for harmful purposes.
-4. Have fun!
+3. Don't post harmful or suspicious links.
+4. Don't use the directory to break school or network rules.
+5. Have fun!
 
-## ⭐ About
+---
 
-THE NETWORK was created by a student, for students.
+## ⭐ OUR MISSION
 
-**Discover. Explore. Connect.**
+THE NETWORK started as one student's idea and is growing into a place to discover cool things.
+
+**Made by students, with creativity.**
+
+---
+
+<sub>🌐 THE NETWORK | EST. 2026</sub>
