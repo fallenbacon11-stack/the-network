@@ -34,8 +34,6 @@
 
 
 
-*Verified websites will be listed here.*
-
 ---
 
 ## 🎮 GAMES
