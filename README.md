@@ -23,6 +23,17 @@
 
 ## 🌐 WEBSITE DIRECTORY
 
+### 📚 Learning
+- [Khan Academy](https://www.khanacademy.org/)
+- [Code.org](https://code.org/)
+- [Scratch](https://scratch.mit.edu/)
+
+### 🎮 Games & Creativity
+- [Scratch Projects](https://scratch.mit.edu/explore/projects/all/)
+- [NASA](https://www.nasa.gov/)
+
+
+
 *Verified websites will be listed here.*
 
 ---
